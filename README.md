@@ -1,5 +1,5 @@
 # 📱 Power BI Dashboard: Mobile Sales Analytics
-### Dashboard Link   C:\Users\abhis\OneDrive\Documents\moblie_data.pbix
+
 
 
 ## 🧭 Overview
