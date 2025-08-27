@@ -1,10 +1,12 @@
 # 📱 Power BI Dashboard: Mobile Sales Analytics
+### Dashboard Link   C:\Users\abhis\OneDrive\Documents\moblie_data.pbix
+
 
 ## 🧭 Overview
 This dashboard provides a comprehensive analysis of mobile phone sales transactions, customer behavior, and brand performance. It is designed to help sales teams, product managers, and analysts gain insights into top-performing models, customer preferences, and regional sales trends.
 
 ---
-### Dashboard Link :  C:\Users\abhis\OneDrive\Documents\moblie_data.pbix
+
 
 
 
